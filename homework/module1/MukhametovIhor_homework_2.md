@@ -1,4 +1,4 @@
-
+```bash
 ubuntu@ubuntu-VirtualBox:~$ cd /
 ubuntu@ubuntu-VirtualBox:/$ ls
 bin    dev   lib    libx32      mnt   root  snap      sys  var
